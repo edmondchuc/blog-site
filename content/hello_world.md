@@ -1,6 +1,6 @@
 Title: My First Post
 Date: 2018-11-18 21:42
-Category: Personal
+Category: dev
 
 Hello, World!
 
