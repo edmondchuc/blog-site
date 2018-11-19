@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Edmond Chuc'
-SITENAME = 'Edmond Chuc'
-SITEURL = ''
+SITENAME = 'Edmond Chuc\'s Blog'
+SITEURL = 'http://localhost:8000' # https://www.edmondchuc.com
 
 PATH = 'content'
 
@@ -36,3 +36,14 @@ DEFAULT_PAGINATION = 10
 
 # Theme path
 THEME = 'Flex'
+
+# Flex theme settings
+# https://github.com/alexandrevicenzi/Flex/wiki/Configuration-example
+SITETITLE = 'Edmond Chuc'
+SITESUBTITLE = 'Software Developer'
+SITEDESCRIPTION = 'Edmond Chuc\'s, a software developer\'s portfolio and blogging website.'
+SITELOGO = 'https://www.edmondchuc.com/static/img/me-pic.jpg'
+FAVICON = 'https://www.edmondchuc.com/static/img/favicon.ico'
+BROWSER_COLOR = '#333'
+ROBOTS = 'index, follow'
+COPYRIGHT_YEAR = '2018 by Edmond Chuc'
