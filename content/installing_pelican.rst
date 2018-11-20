@@ -5,13 +5,20 @@ Installing Pelican - A Static Site Generator
 :category: Software Development
 :author: Edmond Chuc
 :tags: Python, static site generator, Pelican, Jekyll, Hugo, Sphinx, blog, Ruby, Markdown, reStructured Text
-:summary: An initial impressions on Pelican and some other static site generators. 
+:summary: An initial impressions on Pelican and some other static site generators.
 
-I started looking into static site generators to simplify my workflow and the maintenance of my personal website. As with many before me, I stumbled across the popular names in static site generation such as [Jekyll](https://jekyllrb.com/), [Hugo](https://gohugo.io/) and others. At the time, I already had a single-paged portfolio website but I wanted to start blogging online to share my thoughts and experiences with the world. I knew static site generators were the go-to solutions but I never expected how immensely powerful they were and how easy they were to use. Read on to see why I chose [Pelican](https://github.com/getpelican/pelican) as my static site generator.
+I started looking into static site generators to simplify my workflow and the maintenance of my personal website. As with many before me, I stumbled across the popular names in static site generation such as `Jekyll`_, `Hugo`_ and others. At the time, I already had a single-paged portfolio website but I wanted to start blogging online to share my thoughts and experiences with the world. I knew static site generators were the go-to solutions but I never expected how immensely powerful they were and how easy they were to use. Read on to see why I chose `Pelican`_ as my static site generator.
+
+.. _Jekyll: https://jekyllrb.com/
+.. _Hugo: https://gohugo.io/
+.. _Pelican: https://github.com/getpelican/pelican
 
 I initially started with Jekyll, the top-dog of static site generators, backed by GitHub. Their documentation was easy to follow and the installation process was reasonably straight forward. However, I soon ran into a problem. Jekyll was developed with Ruby and its ecosystem. At the time I was a full-blown Python developer so naturally, all the jargon to do with Ruby like gems and bundlers were unfamiliar to me. Despite the clear and well-explained "Ruby 101" that Jekyll documentation provided, I started seeing the similar patterns of the Ruby ecosystem to Python's and decided to look for a Python static site generator instead. 
 
-I went on to [Static Gen](https://www.staticgen.com/), a website that lists static site generators by programming language and other variables. I filtered it for Python static site generators and it seemed the most popular one was Pelican. I started reading the Pelican documentation and soon realised how inspired the project was from [Sphinx](http://www.sphinx-doc.org/en/master/), another popular static site generator, albeit used mostly for technical documentation. 
+I went on to `Static Gen`_, a website that lists static site generators by programming language and other variables. I filtered it for Python static site generators and it seemed the most popular one was Pelican. I started reading the Pelican documentation and soon realised how inspired the project was from `Sphinx`_, another popular static site generator, albeit used mostly for technical documentation.
+
+.. _Static Gen: https://www.staticgen.com/
+.. _Sphinx: http://www.sphinx-doc.org/en/master/
 
 The installation process of Pelican was super easy. I was able to use a command line interface tool to generate the configuration files for me called `pelican-quickstart`. I was then able to easily create my first blog post in a simple markdown file. I imaginatively named the file `hello_world.md` and wrote some basic content to test it out. To build, I had to run `pelican content` and then followed by serving the output by running an internal server using `pelican --listen`. Magically, my markdown content is now rendered perfectly in HTML. 
 

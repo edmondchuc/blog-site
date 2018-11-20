@@ -7,6 +7,10 @@ Hello, World!
 
 Hello, World!
 
+This is my first blog post!
+
+Join me in appreciating a simple Python function below.
+
 Here is some python code. 
 
 .. code-block:: python
