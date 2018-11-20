@@ -1,8 +1,11 @@
-Title: Installing Pelican - A Static Site Generator
-Date: 2018-11-18 21:51
-Category: dev
-Author: Edmond Chuc
-Tags: Python, static site generator, Pelican, Jekyll, Hugo, Sphinx, blog, Ruby, Markdown, reStructured Text
+Installing Pelican - A Static Site Generator
+============================================
+
+:date: 2018-11-18 21:51
+:category: Software Development
+:author: Edmond Chuc
+:tags: Python, static site generator, Pelican, Jekyll, Hugo, Sphinx, blog, Ruby, Markdown, reStructured Text
+:summary: An initial impressions on Pelican and some other static site generators. 
 
 I started looking into static site generators to simplify my workflow and the maintenance of my personal website. As with many before me, I stumbled across the popular names in static site generation such as [Jekyll](https://jekyllrb.com/), [Hugo](https://gohugo.io/) and others. At the time, I already had a single-paged portfolio website but I wanted to start blogging online to share my thoughts and experiences with the world. I knew static site generators were the go-to solutions but I never expected how immensely powerful they were and how easy they were to use. Read on to see why I chose [Pelican](https://github.com/getpelican/pelican) as my static site generator.
 
