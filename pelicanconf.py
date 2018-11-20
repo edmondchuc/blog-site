@@ -25,8 +25,10 @@ LINKS = (
 )
 
 # Social widget
-# SOCIAL = (('You can add links in your config file', '#'),
-#           ('Another social link', '#'),)
+SOCIAL = (
+    ('github', 'https://github.com/edmondchuc'),
+    # ('rss', '/blog/feeds/all.atom.xml'),
+)
 
 DEFAULT_PAGINATION = 5
 
