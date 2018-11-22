@@ -4,6 +4,8 @@ Hello, World!
 :date: 2018-11-18 21:42
 :category: Software Development
 :author: Edmond Chuc
+:tags: Python
+:summary: My first blog post!
 
 Hello, World!
 
