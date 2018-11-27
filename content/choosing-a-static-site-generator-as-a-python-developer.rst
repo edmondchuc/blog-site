@@ -4,7 +4,7 @@ Choosing a Static Site Generator as a Python Developer
 :date: 2018-11-18 21:51
 :category: Software Development
 :author: Edmond Chuc
-:tags: Python, static site generator, Pelican, Jekyll, Hugo, Sphinx, blog, Ruby, Markdown, reStructured Text
+:tags: Python, static site generator, Pelican, Jekyll, Hugo, Sphinx, blog, Ruby, Markdown, reStructured Text, web
 :summary: An initial impressions on Pelican and some other static site generators.
 
 I started looking into static site generators to simplify my workflow and the maintenance of my personal website. As with many before me, I stumbled across the popular names in static site generators such as `Jekyll`_, `Hugo`_ and others. At the time, I had a single-paged portfolio website set up, but I  wanted to also start blogging online to share my knowledge with others and have a medium to reflect on my learning experiences. I knew static site generators were the go-to solutions but I never expected how immensely powerful they were and how easy they were to use. Read on to see why I chose `Pelican`_ as my static site generator.
