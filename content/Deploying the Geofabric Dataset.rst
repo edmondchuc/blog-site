@@ -6,7 +6,7 @@ Deploying the Geofabric Dataset
 :category: Software Development
 :author: Edmond Chuc
 :tags: Geoserver, Geofabric, Linked Data, PostgreSQL, OpenStreetMaps, Web, GIS
-:summary: A self-reflection on the Location Index project.
+:summary: A self-reflection on the Location Index project..
 
 
 I worked as a software developer in the technical team of the Location Index project. The team consisted of 3 members; a senior scientific researcher who was also our technical lead, a senior software developer and myself.
