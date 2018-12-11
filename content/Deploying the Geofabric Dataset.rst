@@ -9,7 +9,7 @@ Deploying the Geofabric Dataset
 :summary: A reflection on the Location Index Project.
 
 
-I worked as a core software developer in the technical team of the Location Index project. The team consisted of 3 members; a senior scientific researcher who was also our technical lead, a senior software developer and myself.
+I worked as a software developer in the technical team of the Location Index project. The team consisted of 3 members; a senior scientific researcher who was also our technical lead, a senior software developer and myself.
 
 I was assigned the task to expose the `Bureau of Meteorology's`_ `Geofabric`_ dataset as a `Web Feature Service`_ (WFS) as well as a `Web Map Service`_ (WMS). The WMS was required to overlay the features of the Geofabric on top of a styled map of Australia.
 
